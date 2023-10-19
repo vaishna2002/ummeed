@@ -26,5 +26,5 @@ export default function App() {
     </>
   );
 }
-// git push upstream main   -> Bhavesh repo
-// git push origin main      -> Self Repo
+// git push upstream main   -> Bhavesh repo -> git pull upstream main 
+// git push origin main      -> Self Repo   -> git pull origin main
