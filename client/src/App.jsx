@@ -8,7 +8,7 @@ export default function App() {
         <Routes>
 
           {/* Student Dashboard */}
-          
+
 
           <Route path="/" element={<Home />} />
           <Route path="/connect" element={<Connect />} />
@@ -18,7 +18,7 @@ export default function App() {
           {/* College Dashboard */}
 
           <Route path="/pricing" element={<Pricing />} />
-          <Route path="/connect" element={<Analytics />} />
+          <Route path="/Analytics" element={<Analytics />} />
           <Route path="/logout" element={<Logout />} />
 
         </Routes>
